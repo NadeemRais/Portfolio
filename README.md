@@ -1,2 +1,2 @@
-# Portfolio
-This is my portfolio
+# mohdtayyab.github.io
+Portfolio Project
