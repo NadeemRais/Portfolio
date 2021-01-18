@@ -1,2 +1,2 @@
-#nadeem
+# mohdtayyab.github.io
 Portfolio Project
