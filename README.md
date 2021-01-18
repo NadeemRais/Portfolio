@@ -1,2 +1,2 @@
-# mohdtayyab.github.io
+# nadeemmalik.github.io
 Portfolio Project
